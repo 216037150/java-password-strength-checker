@@ -1,0 +1,1 @@
+# java-password-strength-checker
